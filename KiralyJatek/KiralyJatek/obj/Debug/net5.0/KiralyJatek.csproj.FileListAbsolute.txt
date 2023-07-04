@@ -1,0 +1,16 @@
+D:\CsharpProjects\KiralyJatek\KiralyJatek\bin\Debug\net5.0\KiralyJatek.exe
+D:\CsharpProjects\KiralyJatek\KiralyJatek\bin\Debug\net5.0\KiralyJatek.deps.json
+D:\CsharpProjects\KiralyJatek\KiralyJatek\bin\Debug\net5.0\KiralyJatek.runtimeconfig.json
+D:\CsharpProjects\KiralyJatek\KiralyJatek\bin\Debug\net5.0\KiralyJatek.runtimeconfig.dev.json
+D:\CsharpProjects\KiralyJatek\KiralyJatek\bin\Debug\net5.0\KiralyJatek.dll
+D:\CsharpProjects\KiralyJatek\KiralyJatek\bin\Debug\net5.0\KiralyJatek.pdb
+D:\CsharpProjects\KiralyJatek\KiralyJatek\obj\Debug\net5.0\KiralyJatek.csproj.AssemblyReference.cache
+D:\CsharpProjects\KiralyJatek\KiralyJatek\obj\Debug\net5.0\KiralyJatek.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\KiralyJatek\KiralyJatek\obj\Debug\net5.0\KiralyJatek.AssemblyInfoInputs.cache
+D:\CsharpProjects\KiralyJatek\KiralyJatek\obj\Debug\net5.0\KiralyJatek.AssemblyInfo.cs
+D:\CsharpProjects\KiralyJatek\KiralyJatek\obj\Debug\net5.0\KiralyJatek.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\KiralyJatek\KiralyJatek\obj\Debug\net5.0\KiralyJatek.dll
+D:\CsharpProjects\KiralyJatek\KiralyJatek\obj\Debug\net5.0\refint\KiralyJatek.dll
+D:\CsharpProjects\KiralyJatek\KiralyJatek\obj\Debug\net5.0\KiralyJatek.pdb
+D:\CsharpProjects\KiralyJatek\KiralyJatek\obj\Debug\net5.0\KiralyJatek.genruntimeconfig.cache
+D:\CsharpProjects\KiralyJatek\KiralyJatek\obj\Debug\net5.0\ref\KiralyJatek.dll
